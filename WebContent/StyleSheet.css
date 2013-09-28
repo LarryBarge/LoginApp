@@ -1,0 +1,18 @@
+@CHARSET "UTF-8";
+
+h1 {
+	text-align: center;
+}
+h2 {
+	text-align: center; color: maroon; background: aqua;}
+p{
+	text-align: center; color: blue;
+}
+
+#lg{
+	text-align: left; 
+}
+
+#testies{
+	align:"right";
+}
